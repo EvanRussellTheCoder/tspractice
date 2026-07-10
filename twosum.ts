@@ -63,3 +63,5 @@ function twoSumm(numbers: number[], goal: number): number[] | null {
 
     return null;
 }
+
+export {}

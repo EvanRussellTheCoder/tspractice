@@ -87,3 +87,5 @@ function bestTimeOptimized(prices: number[]): number {
     return maxProfit;
     
 }
+
+export {}

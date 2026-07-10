@@ -89,3 +89,5 @@ function palindrome(s: string): boolean {
     return true;
 
 }
+
+export {}
